@@ -1,7 +1,5 @@
 # AWS SAA-C03 시험 핵심 정리
 
----
-
 ## 📦 스토리지
 
 ### S3 (Simple Storage Service)
